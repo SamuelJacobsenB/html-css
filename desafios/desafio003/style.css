@@ -1,0 +1,221 @@
+body {
+    margin: 0px;
+    background-color: rgba(245, 222, 179, 0.659);
+}
+
+header {
+    background-image: linear-gradient(to bottom, #2A9D5E, rgba(0, 0, 0, 0.819));
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    font-family: 'Bebas Neue', Verdana, Tahoma, sans-serif;
+    font-weight: normal;
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.205);
+}
+
+.h3main {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color: white;
+    padding: 16px;
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.246);
+}
+
+nav {
+    font-size: 16px;
+    padding: 5px;
+}
+
+nav > a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.706);
+    font-weight: bold;
+    padding: 15px;
+}
+
+nav > a:hover {
+    background-color: #16873af3;
+    border-radius: 5px;
+    text-decoration: underline;
+}
+
+@font-face {
+    font-family: 'idroid';
+    src: url('./fontes/idroid.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('./fontes/bebasneue.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+main {
+    background-color: white;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: -24px;
+    box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.241);
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+
+main > h2 {
+    font-family: 'idroid', sans-serif;
+    font-size: 28px;
+    color: #063D1E;
+    font-weight: lighter;
+    padding: 15px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.irinablok {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+span {
+    padding-left: 30px;
+}
+
+main > h3 {
+    font-family: 'idroid', sans-serif;
+    color: #06561ff3;
+    font-weight: lighter;
+    background-image: linear-gradient(to right, #86E1AF, white);
+}
+
+p > a {
+    background-color: #5dba1a99;
+    padding-left: 2px;
+    padding-right: 2px;
+    color: #1A5C37;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 3px;
+    margin: 3px;
+}
+
+p > a:hover {
+    text-decoration: underline;
+}
+
+div > img {
+    padding-left: 100px;
+}
+
+b {
+    color: #06561ff3;
+}
+
+.irinablok > a {
+    background-color: #5dba1a99;
+    padding-left: 2px;
+    padding-right: 2px;
+    color: #1A5C37;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 3px;
+    margin: 3px;
+}
+
+.irinablok > a:hover {
+    text-decoration: underline;
+}
+
+.imagemirina {
+    align-items: center;
+    padding-top: 20px;
+}
+
+div.imagemrobonovo {
+    padding-top: 15px;
+    padding-left: 200px;
+    padding-bottom: 10px;
+}
+
+iframe {
+    margin: 0px -20px 30px -20px;
+    padding: 80px;
+    position: relative;
+    background-color: #063D1E;
+}
+
+section {
+    padding-top: 0px;
+    background-color: #83E1AD;
+    border-radius: 15px;
+    padding-bottom: 7px;
+}
+
+section > h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #063D1E;
+    margin: 0px;
+    padding: 10px;
+    border-radius: 15px 15px 0px 0px;
+}
+
+section > ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+li > a {
+    color: black;
+    text-decoration: underline;
+}
+
+.linkultimo {
+    color: #063D1E;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: transparent;
+}
+
+.linkultimo:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #063D1E;
+    color: white;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+b.rodape {
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+}
+
+

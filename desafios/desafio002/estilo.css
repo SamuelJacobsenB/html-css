@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(0 ,0 ,0, 0.5);
+}
+
+.titulo {
+    text-align: center;
+    text-shadow: 2px 2px 2px white;
+}
+
+.titulo1 {
+    text-shadow: 2px 2px 2px white;
+}
+
+.videos {
+    text-align: center;
+}
+
+.video1 {
+    text-align: center;
+}
+
+.video2 {
+    text-align: center;
+}
+

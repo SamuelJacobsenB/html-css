@@ -1,0 +1,21 @@
+.titulos {
+    text-align: left;
+}
+
+.paragrafo {
+    text-align: left;
+}
+
+#lista {
+    text-align: left;
+}
+
+.imagem {
+    width: 200px;
+    height: 200px;
+}
+
+.logo {
+    width: 20px;
+    height: 20px;
+}
